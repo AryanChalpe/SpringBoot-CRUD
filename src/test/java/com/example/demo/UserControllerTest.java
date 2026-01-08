@@ -1,5 +1,8 @@
 package com.example.demo;
 
+import com.example.demo.controller.UserController;
+import com.example.demo.model.User;
+import com.example.demo.repository.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
