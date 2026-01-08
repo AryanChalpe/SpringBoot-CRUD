@@ -1,4 +1,5 @@
 com\example\demo\DemoApplication.class
+com\example\demo\CorsConfig.class
 com\example\demo\controller\UserController.class
 com\example\demo\model\User.class
 com\example\demo\repository\UserRepository.class
